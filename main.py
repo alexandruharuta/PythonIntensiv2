@@ -6,8 +6,6 @@ while True:
         print(a)
         print(a + b)
         print(a - b)
-        print(a * b)
-        print(a / b)
         break
     elif (a < 0) or (b < 0):
         print("Numbers are not positive")
